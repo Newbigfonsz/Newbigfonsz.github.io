@@ -7,7 +7,7 @@ Built using HTML, CSS, and hosted on **GitHub Pages**, it represents both my tec
 ---
 
 ## 🚀 Live Website
-👉 ((https://newbigfonsz.github.io/))
+👉 [https://newbigfonsz.github.io/](https://newbigfonsz.github.io/)
 
 ---
 
@@ -19,8 +19,6 @@ This portfolio highlights my journey into cloud engineering and front-end web de
 ---
 
 ## 🧩 Project Structure
-```
-
 index.html
 style.css
 resume.pdf
@@ -28,7 +26,8 @@ images/
 └── headshot.jpg
 Alphonzo_Jones_HTML_Sitemap.html
 
-````
+yaml
+Copy code
 
 ---
 
@@ -52,8 +51,8 @@ Alphonzo_Jones_HTML_Sitemap.html
 ---
 
 ## 📬 Contact
-📧 **Email:** [ajones991@verizon.net](mailto:ajones991@verizon.net)  
-💼 **GitHub:** [@bigfonsz](https://github.com/bigfonsz)  
+📧 **Email:** [newbigfonsz@gmail.com](mailto:newbigfonsz@gmail.com)  
+💼 **GitHub:** [@newbigfonsz](https://github.com/newbigfonsz)  
 🔗 **LinkedIn:** [Alphonzo Jones Jr.](https://www.linkedin.com/in/alphonzojonesjr)
 
 ---
@@ -62,15 +61,7 @@ Alphonzo_Jones_HTML_Sitemap.html
 To view locally:
 1. Clone this repository  
    ```bash
-   git clone https://github.com/bigfonsz/bigfonsz.github.io
-````
+   git clone https://github.com/newbigfonsz/newbigfonsz.github.io
+Open index.html in your browser.
 
-2. Open `index.html` in your browser
-3. For live version, visit [https://bigfonsz.github.io](https://bigfonsz.github.io)
-
----
-
-### ✨ Acknowledgments
-
-This portfolio was developed as part of a **Web Design & Development course** project (Module 05).
-It demonstrates key concepts in front-end development, responsive design, and version control.
+For the live version, visit https://newbigfonsz.github.io
