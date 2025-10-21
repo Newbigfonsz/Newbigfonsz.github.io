@@ -1,12 +1,3 @@
-Perfect 👍 Here’s your **professional `README.md`** text — ready to copy and paste into your GitHub repository.
-
-This will make your portfolio repo look polished, professional, and aligned with your coursework and career goals.
-
----
-
-### 🧾 **README.md (for your GitHub Portfolio Repo)**
-
-```markdown
 # 🌐 Alphonzo Jones Jr. – Cloud Portfolio
 
 Welcome to my professional portfolio website!  
